@@ -1,6 +1,0 @@
-[submodule "NutzCode.CloudFileSystem"]
-	path = NutzCode.CloudFileSystem
-	url = https://github.com/maxpiva/NutzCode.CloudFileSystem
-[submodule "NutzCode.Libraries.Web"]
-	path = NutzCode.Libraries.Web
-	url = https://github.com/maxpiva/NutzCode.Libraries.Web
