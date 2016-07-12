@@ -50,7 +50,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.csproj">
+    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.csproj">
       <Project>{29861d1a-968c-49ca-a637-88b391aa5063}</Project>
       <Name>NutzCode.CloudFileSystem</Name>
     </ProjectReference>

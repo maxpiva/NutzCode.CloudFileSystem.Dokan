@@ -41,8 +41,8 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Nito.AsyncEx, Version=3.0.1.0, Culture=neutral, processorArchitecture=MSIL">
@@ -112,15 +112,15 @@
       <Project>{617b3790-420b-4399-b84c-39ea01897641}</Project>
       <Name>NutzCode.CloudFileSystem.DokanServiceModels</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NutzCode.CloudFileSystem.Plugins.AmazonCloudDrive\NutzCode.CloudFileSystem.Plugins.AmazonCloudDrive.csproj">
+    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.Plugins.AmazonCloudDrive\NutzCode.CloudFileSystem.Plugins.AmazonCloudDrive.csproj">
       <Project>{d202b61e-a658-4208-83fc-745e04f43bde}</Project>
       <Name>NutzCode.CloudFileSystem.Plugins.AmazonCloudDrive</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NutzCode.CloudFileSystem.Plugins.GoogleDrive\NutzCode.CloudFileSystem.Plugins.GoogleDrive.csproj">
+    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.Plugins.GoogleDrive\NutzCode.CloudFileSystem.Plugins.GoogleDrive.csproj">
       <Project>{964a62e6-2dae-4723-926d-d3e9597b5213}</Project>
       <Name>NutzCode.CloudFileSystem.Plugins.GoogleDrive</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.csproj">
+    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.csproj">
       <Project>{29861d1a-968c-49ca-a637-88b391aa5063}</Project>
       <Name>NutzCode.CloudFileSystem</Name>
     </ProjectReference>

@@ -63,7 +63,7 @@
       <Project>{617b3790-420b-4399-b84c-39ea01897641}</Project>
       <Name>NutzCode.CloudFileSystem.DokanServiceModels</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.csproj">
+    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.csproj">
       <Project>{29861d1a-968c-49ca-a637-88b391aa5063}</Project>
       <Name>NutzCode.CloudFileSystem</Name>
     </ProjectReference>

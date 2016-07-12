@@ -115,23 +115,23 @@
       <Project>{617b3790-420b-4399-b84c-39ea01897641}</Project>
       <Name>NutzCode.CloudFileSystem.DokanServiceModels</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NutzCode.CloudFileSystem.OAuth.Windows.Awesomium\NutzCode.CloudFileSystem.OAuth.Windows.Awesomium.csproj">
+    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.OAuth.Windows.Awesomium\NutzCode.CloudFileSystem.OAuth.Windows.Awesomium.csproj">
       <Project>{f9ff042f-f6e6-4c36-a917-34bf0f5ab187}</Project>
       <Name>NutzCode.CloudFileSystem.OAuth.Windows.Awesomium</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NutzCode.CloudFileSystem.OAuth.Windows.WinForms\NutzCode.CloudFileSystem.OAuth.Windows.WinForms.csproj">
+    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.OAuth.Windows.WinForms\NutzCode.CloudFileSystem.OAuth.Windows.WinForms.csproj">
       <Project>{dec4bfb0-14cd-4622-b1e0-ac97aca64f8f}</Project>
       <Name>NutzCode.CloudFileSystem.OAuth.Windows.WinForms</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NutzCode.CloudFileSystem.Plugins.AmazonCloudDrive\NutzCode.CloudFileSystem.Plugins.AmazonCloudDrive.csproj">
+    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.Plugins.AmazonCloudDrive\NutzCode.CloudFileSystem.Plugins.AmazonCloudDrive.csproj">
       <Project>{d202b61e-a658-4208-83fc-745e04f43bde}</Project>
       <Name>NutzCode.CloudFileSystem.Plugins.AmazonCloudDrive</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NutzCode.CloudFileSystem.Plugins.GoogleDrive\NutzCode.CloudFileSystem.Plugins.GoogleDrive.csproj">
+    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.Plugins.GoogleDrive\NutzCode.CloudFileSystem.Plugins.GoogleDrive.csproj">
       <Project>{964a62e6-2dae-4723-926d-d3e9597b5213}</Project>
       <Name>NutzCode.CloudFileSystem.Plugins.GoogleDrive</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.csproj">
+    <ProjectReference Include="..\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem\NutzCode.CloudFileSystem.csproj">
       <Project>{29861d1a-968c-49ca-a637-88b391aa5063}</Project>
       <Name>NutzCode.CloudFileSystem</Name>
     </ProjectReference>
