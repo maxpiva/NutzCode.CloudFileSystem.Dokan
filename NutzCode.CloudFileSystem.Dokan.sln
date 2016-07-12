@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutzCode.CloudFileSystem.DokanClient", "NutzCode.CloudFileSystem.DokanClient\NutzCode.CloudFileSystem.DokanClient.csproj", "{7C01BEC3-9379-4BD2-80C6-D3863ED2C9C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutzCode.CloudFileSystem.DokanClientService", "NutzCode.CloudFileSystem.DokanClientService\NutzCode.CloudFileSystem.DokanClientService.csproj", "{61CE1822-023B-4111-AA53-62C773DAD807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutzCode.CloudFileSystem.DokanServiceControl", "NutzCode.CloudFileSystem.DokanServiceControl\NutzCode.CloudFileSystem.DokanServiceControl.csproj", "{81A567AE-AC51-40B7-9F1F-3616888656DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutzCode.CloudFileSystem.DokanServiceModels", "NutzCode.CloudFileSystem.DokanServiceModels\NutzCode.CloudFileSystem.DokanServiceModels.csproj", "{617B3790-420B-4399-B84C-39EA01897641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutzCode.CloudFileSystem.DokanCloudService", "NutzCode.CloudFileSystem.DokanCloudService\NutzCode.CloudFileSystem.DokanCloudService.csproj", "{9DB16231-E9B4-48BF-B0E0-89935B4ED879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C01BEC3-9379-4BD2-80C6-D3863ED2C9C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C01BEC3-9379-4BD2-80C6-D3863ED2C9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C01BEC3-9379-4BD2-80C6-D3863ED2C9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C01BEC3-9379-4BD2-80C6-D3863ED2C9C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CE1822-023B-4111-AA53-62C773DAD807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CE1822-023B-4111-AA53-62C773DAD807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CE1822-023B-4111-AA53-62C773DAD807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CE1822-023B-4111-AA53-62C773DAD807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A567AE-AC51-40B7-9F1F-3616888656DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A567AE-AC51-40B7-9F1F-3616888656DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A567AE-AC51-40B7-9F1F-3616888656DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A567AE-AC51-40B7-9F1F-3616888656DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617B3790-420B-4399-B84C-39EA01897641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617B3790-420B-4399-B84C-39EA01897641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617B3790-420B-4399-B84C-39EA01897641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617B3790-420B-4399-B84C-39EA01897641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB16231-E9B4-48BF-B0E0-89935B4ED879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB16231-E9B4-48BF-B0E0-89935B4ED879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB16231-E9B4-48BF-B0E0-89935B4ED879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB16231-E9B4-48BF-B0E0-89935B4ED879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
