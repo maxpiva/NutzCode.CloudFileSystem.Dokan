@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ServiceModel;
 using System.Threading.Tasks;
 using NutzCode.CloudFileSystem.OAuth2;
