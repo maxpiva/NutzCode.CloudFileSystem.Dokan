@@ -13,7 +13,7 @@ namespace NutzCode.CloudFileSystem.DokanServiceControl
         public void Start()
         {
             Hosting.Start();
-            Control.Init().RunSynchronously();
+            Task.Run(async () => await Control.Init());
         }
 
         public void Stop()
